@@ -2,6 +2,10 @@
 
 [![ci](https://github.com/p-vbordei/token-est/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/token-est/actions/workflows/ci.yml)
 
+[![npm](https://img.shields.io/npm/v/token-est.svg)](https://www.npmjs.com/package/token-est)
+[![downloads](https://img.shields.io/npm/dm/token-est.svg)](https://www.npmjs.com/package/token-est)
+[![bundle](https://img.shields.io/bundlejs/size/token-est)](https://bundlejs.com/?q=token-est)
+
 Fast, heuristic token estimator for LLM prompts. **Zero dependencies, no 1MB tokenizer download.** Typically within ~15% of a real tokenizer for prose — accurate enough for budgeting, batching, and truncation.
 
 ```ts
