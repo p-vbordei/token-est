@@ -1,6 +1,6 @@
 {
   "name": "token-est",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Fast heuristic token estimator for LLM prompts. Zero dependencies, no tokenizer downloads. Within ~15% of real tokenizer counts for prose.",
   "keywords": [
     "tokens",
