@@ -1,5 +1,7 @@
 # token-est
 
+[![ci](https://github.com/p-vbordei/token-est/actions/workflows/ci.yml/badge.svg)](https://github.com/p-vbordei/token-est/actions/workflows/ci.yml)
+
 Fast, heuristic token estimator for LLM prompts. **Zero dependencies, no 1MB tokenizer download.** Typically within ~15% of a real tokenizer for prose — accurate enough for budgeting, batching, and truncation.
 
 ```ts
